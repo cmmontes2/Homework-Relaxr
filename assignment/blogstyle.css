@@ -1,0 +1,14 @@
+/*-------------------------------
+      Header Area
+---------------------------------*/
+
+#logo {
+	float: left;
+}
+
+#nav {
+  display: inline;
+  clear: both;
+}
+
+
