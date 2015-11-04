@@ -83,11 +83,14 @@ ul {
 	padding-top: 2.5%;
 }
 
-#yellow-band {
+footer {
+	clear: both;
+}
+
+#yellow_band {
 	background: #f9e42e;
 	padding:25px;
-	bottom: 150px;
-	position: relative;
+	margin-top: 7%;
 }
 		
 #cta{
@@ -105,6 +108,34 @@ ul {
 	text-align: center;
 	border-radius: 5px;
 	padding: 10px;
+}
+
+#cta a {
+	text-decoration: none;
+}
+
+.black_footer {
+	text-align: center;
+	background-color: #121212;
+	color: white;
+}
+
+.black_footer h1 {
+	font-size: 24px;
+	font-weight: bolder;
+	color: #f9e42e;
+	padding-top: 3%;
+}
+
+.black_footer p {
+	padding-bottom: 3%;
+}
+
+.black_footer img {
+	margin-top: 4%;
+	margin-bottom: 4%;
+	padding-left: 1.5%;
+	padding-right: 1.5%;
 }
 
 
@@ -145,10 +176,6 @@ footer {
 	height: 0%;
 	font-size: 40px;
 	background-color: #000000;
-}
-
-#social{
-	word-spacing: 30px;
 }
 
 #copyright{
