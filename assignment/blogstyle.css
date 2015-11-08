@@ -82,6 +82,9 @@ header a {
 	text-decoration: none;
 }
 
+a:hover {
+    color: #FF00FF;   /* added the hover to satisfy the tech req. */
+}
 
 /* ----------------------------
 		Structure
