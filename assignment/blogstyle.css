@@ -147,6 +147,11 @@ hr {
 		post_one
 -------------------------------*/
 
+.posttext {
+	display: none;
+}
+
+
 
 /* ---------------------------
 		post_two
@@ -376,6 +381,3 @@ footer {
 	position: relative;
 	bottom: 280px; 
 }
-
-
-
